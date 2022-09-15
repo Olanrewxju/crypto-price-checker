@@ -1,0 +1,29 @@
+#231419
+rgb(35,20,25)
+
+#191020
+rgb(25,16,32)
+
+#030a0a
+rgb(3,10,10)
+
+
+
+
+
+    
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-linear-gradient(120deg, #231419 0%, #191020 50%, #030A0A 100%);
+
+    /* opera 11.10+ */
+    background:-o-linear-gradient(120deg, #231419 0%, #191020 50%, #030A0A 100%);
+
+    /* ie 6-9 */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#030A0A', endColorstr='#231419', GradientType=0 );
+
+    /* ie 10+ */
+    background:-ms-linear-gradient(120deg, #231419 0%, #191020 50%, #030A0A 100%);
+
+    /* global 94%+ browsers support */
+    background:linear-gradient(120deg, #231419 0%, #191020 50%, #030A0A 100%);
+
